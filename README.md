@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # KIET_AI_DebugChallenge
 
 # Bugs
@@ -11,3 +12,6 @@ Bug 1 → Even after fixing bugs 2–5, the bot still refuses every response —
 
 The bugs are ordered by discovery difficulty, forcing students to debug in layers: crash → training failure → inference failure.
 
+=======
+# MSE_2_Exam
+>>>>>>> 390b95bfc0ae3ff9f06bd8c68b5c225382c9e249
